@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vacant-cs
+- 👀 Main hobbies are cs:go and music
+- 🌱 I’m currently learning video editing, HLAE, guitar, c++
+- 📫 How to reach me: vacant#0069 on discord
